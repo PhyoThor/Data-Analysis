@@ -72,7 +72,7 @@ Family sizes of 2–4 have the highest survival rates; solo travelers and large 
 
 📄 Report
 
-A detailed 2-page written report is included in the repository (report.pdf) summarizing all findings.
+A detailed 6-page written report is included in the repository (report.pdf) summarizing all findings.
 
 🎯 Future Improvements
 
