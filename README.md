@@ -1,4 +1,4 @@
-# Data-Analysis
+# Titanic-Dataset-Analysis
 🛳️ Titanic Dataset — Exploratory Data Analysis (EDA)
 
 This repository contains a complete exploratory data analysis of the Titanic dataset using Python.
